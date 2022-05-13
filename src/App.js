@@ -14,7 +14,7 @@ const perfilGithub = 'https://github.com/J-Barboza';
 
 const App = () => {
   const handlePressGoToGithub = async () => {
-    console.log('entrou');
+    //console.log('entrou');
     const res = await Linking.canOpenURL(perfilGithub);
     if (res) {
       await Linking.openURL(perfilGithub);
