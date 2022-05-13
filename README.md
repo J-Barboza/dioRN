@@ -27,9 +27,15 @@
       <li> JDK</li>
       <li> Android Studio</li>
     </ul>
+    Comandos
+    <ul> 
+      <li> Criar projeto: npx react-native init dioRN</li>
+      <li> Executar: npx react-native run-android</li>
+      <li> Lista Dispositivos: adb device</li>
+    </ul>
     </td>
     <td>
-    <img src="https://user-images.githubusercontent.com/90610113/168190235-563d3ad5-d8d9-41fc-9a3b-0a28ebb014a2.png" style="height: 499px; width: 233px">
+    <img src="https://user-images.githubusercontent.com/90610113/168190235-563d3ad5-d8d9-41fc-9a3b-0a28ebb014a2.png" style="height: 499px; width: 239px">
     </td>
   </tr>
   
