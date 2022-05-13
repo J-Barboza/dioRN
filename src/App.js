@@ -37,7 +37,7 @@ const App = () => {
         <Text
           accessibilityLabel="Nickname: J-Barboza"
           style={[style.defaultText, style.nickName]}>
-          J-Barboza -- 35
+          J-Barboza
         </Text>
         <Text
           accessibilityLabel="Description: Support analyst and software developer, expert in logistics for automotive and retail industry."
